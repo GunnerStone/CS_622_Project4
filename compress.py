@@ -36,7 +36,7 @@ def compress_images(DATA,k):
 
     # scale all pixel values to be between 0 and 255
     X_star = X_star - np.min(X_star)
-    X_star = X_star / np.max(X_star)
+    X_star = X_star / (np.max(X_star)-np.min(X_star))
     X_star = X_star * 255
 
     # create Output directory if it doesnt exist
