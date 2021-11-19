@@ -13,6 +13,7 @@ Function Name | Description
 	+ Projected original images onto top K principle components
 	+ Reconstructed a compressed version of the original face by using the projection and the original set of principle components
 
+
 | Original Image | K = 800 | K = 400 | K = 100 | K=20 |
 :-------------------------:|:-------------------------:
 
