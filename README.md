@@ -16,4 +16,4 @@ Function Name | Description
 
 Original Image | K = 800 | K = 400 | K = 100 | K=20
 ---|---|---|---|---|
-<div style="text-align:center"><img src="https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/original.png" /></div>| ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K800.png)| ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K400.png) | ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K100.png) | ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K20.png) |
+<div style="text-align:center"><img src="https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/original.png" /></div> | ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K800.png)| ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K400.png) | ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K100.png) | ![](https://github.com/GunnerStone/CS_622_Project4/blob/main/README_imgs/K20.png) |
